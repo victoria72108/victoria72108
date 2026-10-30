@@ -20,6 +20,8 @@ El contenido abarca el flujo completo de un analista: desde la limpieza y organi
 * **Análisis y Metodologías de Datos:**
   * Limpieza y preparación de datos (ETL) • Análisis Exploratorio de Datos (EDA) • Identificación de tendencias, patrones e inconsistencias • Interpretación de información del negocio • Comunicación de resultados mediante presentaciones ejecutivas (PowerPoint).
 
+--- 
+📂 **¿Buscas mi portafolio anterior?** [Visita mi portafolio en Blogger](https://bit.ly/4xwFeuM) · Actualmente estoy trasladando mis proyectos a GitHub.
 
 --- 
 
