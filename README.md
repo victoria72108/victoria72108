@@ -38,7 +38,7 @@ El contenido se centra en el desarrollo de habilidades prácticas para el flujo 
 * **Modelamiento y preparación de datos:** Revisión de consistencia, validación de cálculos e incorporación de variables auxiliares de año y mes para facilitar el análisis temporal.
 * **Entregables:** Archivo Excel con cuatro Dashboards interactivo para la exploración de indicadores industriales clave (KPIs) y los indicadores de disponibilidad, productividad y calidad.
 * **Herramientas y Métodos:** Microsoft Excel • Tablas dinámicas y campos calculados • Variables auxiliares • Gráficos dinámicos • Tarjetas KPI • Segmentadores • Hipervínculos entre dashboards.
-* 🔗 **[Ver proyecto y dashboard en Excel ➔](https://github.com/victoria72108/Proyecto_de_Analisis_y_Optimizacion_Operacional_-OEE_Industrial)**
+* 🔗 **[Ver proyecto y dashboard en Excel ➔](https://github.com/victoria72108/Proyecto_de_Analisis_y_Optimizacion_Operacional_-OEE_Industrial-)**
 
 ### 2. Proyecto de Gestión en Cadena de Suministros (Supply Chain) 📦 (Proyecto en desarrollo)
 * **Descripción:** Diseño e implementación de un tablero de control logístico enfocado en la gestión de inventarios, monitoreo de stock crítico y análisis de quiebres de cadena. El proyecto incluyó la consolidación y limpieza profunda de bases de datos operacionales para trackear el rendimiento de despachos (**OTIF - On-Time In-Full**) y los ciclos de rotación de almacenamiento.
